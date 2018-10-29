@@ -1,0 +1,11 @@
+{
+  "extensions": {
+    "sourcegraph/basic-code-intel": true,
+    "chris/graphql": true,
+    "chris/token-highlights": true,
+    "chris/sourcegraph-npm-import-stats": true,
+    "seppestas/kicad-fileviewer": true,
+    "sqs/sourcegraph-hello-world": true,
+    "langserver/dockerfile": true
+  }
+}
